@@ -1,0 +1,5 @@
+﻿D:\ProGram\Microsoft\Visual Studio\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai 40.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai40.cpp
+D:\UIT\NhapMonLapTrinh\BTVN\Bai 40\Bai40.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\NhapMonLapTrinh\BTVN\Bai 40\Bai40.cpp(29,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bai 040.vcxproj -> D:\UIT\NhapMonLapTrinh\Mang1Chieu\x64\Debug\Bai 040.exe

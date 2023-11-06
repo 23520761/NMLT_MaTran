@@ -1,0 +1,4 @@
+﻿  Bai24.cpp
+D:\UIT\NhapMonLapTrinh\BTVN\Bai 24\Bai24.cpp(8,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\UIT\NhapMonLapTrinh\BTVN\Bai 24\Bai24.cpp(9,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Bai 24.vcxproj -> D:\UIT\NhapMonLapTrinh\btnvNMLT\x64\Debug\Bai 24.exe

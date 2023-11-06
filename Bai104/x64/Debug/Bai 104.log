@@ -1,0 +1,5 @@
+﻿  Bai 104.cpp
+D:\UIT\NhapMonLapTrinh\Mang1Chieu\Bai 104\Bai 104\Bai 104.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\NhapMonLapTrinh\Mang1Chieu\Bai 104\Bai 104\Bai 104.cpp(30,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UIT\NhapMonLapTrinh\Mang1Chieu\Bai 104\Bai 104\Bai 104.cpp(36,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bai 104.vcxproj -> D:\UIT\NhapMonLapTrinh\Mang1Chieu\x64\Debug\Bai 104.exe
