@@ -1,0 +1,4 @@
+﻿  Bai131.cpp
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_23520761_BT04\Bai131\Bai131.cpp(91,5): error C2660: 'HoanVi': function does not take 1 arguments
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_23520761_BT04\Bai131\Bai131.cpp(54,6): message : see declaration of 'HoanVi'
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\BaiTapCode\UIT_23520761_BT04\Bai131\Bai131.cpp(91,5): message : while trying to match the argument list '(int)'

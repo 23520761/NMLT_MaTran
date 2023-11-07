@@ -1,0 +1,6 @@
+﻿  Bai091.cpp
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\Bài Tập coding\UIT_23520761_BT04\Bai091\Bai091.cpp(13,6): warning C4101: 'm': unreferenced local variable
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\Bài Tập coding\UIT_23520761_BT04\Bai091\Bai091.cpp(15,8): warning C4101: 'a': unreferenced local variable
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\Bài Tập coding\UIT_23520761_BT04\Bai091\Bai091.cpp(16,6): warning C4101: 'c': unreferenced local variable
+D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\Bài Tập coding\UIT_23520761_BT04\Bai091\Bai091.cpp(14,6): warning C4101: 'n': unreferenced local variable
+  Bai091.vcxproj -> D:\UIT_ Đai học công nghệ thông tin\FILE_UIT_KHMT2023.2\Năm 1\Học kỳ 1\Nhập môn lập trình - Thầy Trần Tấn Minh Khang\Bài Tập coding\UIT_23520761_BT04\x64\Debug\Bai091.exe
