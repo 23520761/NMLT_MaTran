@@ -1,0 +1,4 @@
+﻿  Bai002.cpp
+C:\Users\GIA KHANG\C++\bài nhóm\ma trận\Bai002\Bai002.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\GIA KHANG\C++\bài nhóm\ma trận\Bai002\Bai002.cpp(31,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai002.vcxproj -> C:\Users\GIA KHANG\C++\bài nhóm\ma trận\Project1\x64\Debug\Bai002.exe
