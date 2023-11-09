@@ -1,0 +1,6 @@
+﻿  Bai133.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai134\Bai133.cpp(15,12): warning C4101: 'c': unreferenced local variable
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai134\Bai133.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai134\Bai133.cpp(48,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai134\Bai133.cpp(48,6): warning C4101: 'i': unreferenced local variable
+  Bai134.vcxproj -> C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai133.exe

@@ -1,0 +1,4 @@
+﻿  Bai093.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai093\Bai093.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai093\Bai093.cpp(70,8): warning C4552: '<<': result of expression not used
+  Bai093.vcxproj -> C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai093.exe

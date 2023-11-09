@@ -1,0 +1,4 @@
+﻿  Bai121.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai121\Bai121.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai121\Bai121.cpp(18): error C4700: uninitialized local variable 'c2' used
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai121\Bai121.cpp(18): error C4700: uninitialized local variable 'c1' used

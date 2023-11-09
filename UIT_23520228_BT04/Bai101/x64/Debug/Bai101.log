@@ -1,0 +1,3 @@
+﻿  Bai101.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai101\Bai101.cpp(28,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Bai101.vcxproj -> C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai101.exe

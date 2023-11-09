@@ -1,0 +1,6 @@
+﻿  Bai081.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai081\Bai081.cpp(50,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai081\Bai081.cpp(54,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai081\Bai081.cpp(55,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai081\Bai081.cpp(47): warning C4715: 'AmDau': not all control paths return a value
+  Bai081.vcxproj -> C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai081.exe

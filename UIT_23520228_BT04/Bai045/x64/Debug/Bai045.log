@@ -1,0 +1,4 @@
+﻿  Bai045.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai045\Bai045.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai045\Bai045.cpp(28,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai045.vcxproj -> C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai045.exe

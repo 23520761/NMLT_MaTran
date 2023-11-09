@@ -1,0 +1,3 @@
+﻿  Bai001.cpp
+Bai001.obj : error LNK2019: unresolved external symbol "void __cdecl TaoMatran(int (* const)[500],int &,int &)" (?TaoMatran@@YAXQEAY0BPE@HAEAH1@Z) referenced in function main
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai001.exe : fatal error LNK1120: 1 unresolved externals

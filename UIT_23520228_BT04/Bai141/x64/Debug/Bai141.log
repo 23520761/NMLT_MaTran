@@ -1,0 +1,3 @@
+﻿  Bai141.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai141\Bai141.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai141.vcxproj -> C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai141.exe

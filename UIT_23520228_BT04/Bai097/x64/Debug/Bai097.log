@@ -1,0 +1,9 @@
+﻿  Bai097.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai097\Bai097.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Bai097.obj : error LNK2019: unresolved external symbol "void __cdecl Nhap(float (* const)[500],int &,int &)" (?Nhap@@YAXQEAY0BPE@MAEAH1@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl Nhap(int (* const)[500],int &,int &)" (?Nhap@@YAXQEAY0BPE@HAEAH1@Z)
+Bai097.obj : error LNK2019: unresolved external symbol "void __cdecl Xuat(float (* const)[500],int,int)" (?Xuat@@YAXQEAY0BPE@MHH@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl Xuat(int (* const)[500],int,int)" (?Xuat@@YAXQEAY0BPE@HHH@Z)
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai097.exe : fatal error LNK1120: 2 unresolved externals

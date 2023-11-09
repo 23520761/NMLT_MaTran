@@ -1,0 +1,4 @@
+﻿  Bai153.cpp
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai153\Bai153.cpp(12,12): warning C4101: 'd': unreferenced local variable
+C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\Bai153\Bai153.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bai153.vcxproj -> C:\Users\Admin\Desktop\làm bài lập trình\Ma tran\x64\Debug\Bai153.exe
